@@ -15,4 +15,6 @@
 
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
 
+## Linux Kernel 
 
+* [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
