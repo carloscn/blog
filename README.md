@@ -14,6 +14,7 @@
 ## Embedded
 
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
+* [Using GDB and GDB-multi command note](https://gist.github.com/carloscn/f628bb08453cdda3a33de58caa06ba1f)
 
 ## Linux Kernel 
 
