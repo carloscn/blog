@@ -6,6 +6,7 @@
 * [03_ARMv8_指令集介绍_加载指令集和存储指令集](https://github.com/carloscn/blog/issues/2) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [04_ARMv8_指令集_运算指令集](https://github.com/carloscn/blog/issues/3) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [05_ARMv8_指令集_跳转_比较与返回指令](https://github.com/carloscn/blog/issues/10) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
+* [06_ARMv8_指令集_一些重要的指令](https://github.com/carloscn/blog/issues/12) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 
 ## Linux - ELF
 
