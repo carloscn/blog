@@ -25,3 +25,4 @@
 ## Linux Userspace
 
 * [Linux-用户空间-多线程与同步](https://github.com/carloscn/blog/issues/9) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
+* [Linux进程之间的通信-管道（上）](https://github.com/carloscn/blog/issues/13) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
