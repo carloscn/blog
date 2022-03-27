@@ -15,6 +15,7 @@
 * [03_ELF文件_静态链接](https://github.com/carloscn/blog/issues/11) [compiler](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3Acompiler) [GCC](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGCC) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 ## Embedded
 
+* [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
 * [Using GDB and GDB-multi command note](https://gist.github.com/carloscn/f628bb08453cdda3a33de58caa06ba1f)
 
