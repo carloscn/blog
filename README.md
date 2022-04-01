@@ -29,3 +29,4 @@
 * [Linux进程之间的通信-管道（上）](https://github.com/carloscn/blog/issues/13) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（下）](https://github.com/carloscn/blog/issues/14) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-信号量（System V）](https://github.com/carloscn/blog/issues/15) [2022-4-1]
+* [Linux进程之间的通信-内存共享（System V）](https://github.com/carloscn/blog/issues/16) [2022-4-1]
