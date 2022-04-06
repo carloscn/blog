@@ -15,6 +15,7 @@
 * [06_ARMv8_指令集_一些重要的指令](https://github.com/carloscn/blog/issues/12) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [0X_ARMv8_指令集_基于汇编的UART驱动](https://gist.github.com/carloscn/dec6fe9743b9cbbdc58a44e048ab5598) [2022-4-2]
 * [07_ARMv8_汇编器Using as](https://github.com/carloscn/blog/issues/19) [2022-4-4]
+* [08_ARMv8_链接器和链接脚本](https://github.com/carloscn/blog/issues/20) [2022-4-6]
 
 ## Linux Userspace
 
