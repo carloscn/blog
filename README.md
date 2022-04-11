@@ -16,6 +16,7 @@
 * [0X_ARMv8_指令集_基于汇编的UART驱动](https://gist.github.com/carloscn/dec6fe9743b9cbbdc58a44e048ab5598) [2022-4-2]
 * [07_ARMv8_汇编器Using as](https://github.com/carloscn/blog/issues/19) [2022-4-4]
 * [08_ARMv8_链接器和链接脚本](https://github.com/carloscn/blog/issues/20) [2022-4-6]
+* [09_ARMv8_内嵌汇编（内联汇编）Inline assembly](https://github.com/carloscn/blog/issues/22) [2022-4-11]
 
 ## Linux Userspace
 
