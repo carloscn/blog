@@ -1,17 +1,5 @@
 # Blog Navigation
 
-## Embedded
-
-* [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
-* [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
-* [Using GDB and GDB-multi command note](https://gist.github.com/carloscn/f628bb08453cdda3a33de58caa06ba1f)
-* [嵌入式Linux编译内核步骤 / 重点解决机器码问题 / 三星2451](https://github.com/carloscn/blog/issues/27) [2017-12-7]
-* [OMAPL138制作SD卡启动盘及重装Linux系统](https://github.com/carloscn/blog/issues/30) [2018-1-6]
-* [基于OMAPL：Linux3.3内核的编译](https://github.com/carloscn/blog/issues/31) [2018-6-7]
-* [DSP+ARM多核异构开发环境搭建OMAPL138](https://github.com/carloscn/blog/issues/33) [2018-6-8]
-* [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
-* [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
-
 ## ARMv8
 
 * [02_ARMv8_基本概念](https://github.com/carloscn/blog/issues/1) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
@@ -42,6 +30,10 @@
 * [04_ELF文件_加载进程虚拟地址空间](https://github.com/carloscn/blog/issues/18) [2022-4-3] [2022-4-4]
 * [05_ELF文件_动态链接](https://github.com/carloscn/blog/issues/21) [2022-4-8] [2022-4-9]
 
+## Linux Kernel 
+
+* [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
+
 ## Linux Driver
 
 * [Linux Driver - GPIO键盘驱动开发记录_OMAPL138](https://github.com/carloscn/blog/issues/32) [2018-1-14]
@@ -51,9 +43,17 @@
 * [Linux内核调用SPI驱动_实现OLED显示功能](https://github.com/carloscn/blog/issues/38) [2018-8-23]
 * [Linux内核调用I2C驱动_驱动嵌套驱动方法MPU6050](https://github.com/carloscn/blog/issues/40) [2018-10-2]
 
-## Linux Kernel 
+## Embedded
 
-* [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
+* [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
+* [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
+* [Using GDB and GDB-multi command note](https://gist.github.com/carloscn/f628bb08453cdda3a33de58caa06ba1f)
+* [嵌入式Linux编译内核步骤 / 重点解决机器码问题 / 三星2451](https://github.com/carloscn/blog/issues/27) [2017-12-7]
+* [OMAPL138制作SD卡启动盘及重装Linux系统](https://github.com/carloscn/blog/issues/30) [2018-1-6]
+* [基于OMAPL：Linux3.3内核的编译](https://github.com/carloscn/blog/issues/31) [2018-6-7]
+* [DSP+ARM多核异构开发环境搭建OMAPL138](https://github.com/carloscn/blog/issues/33) [2018-6-8]
+* [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
+* [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
 
 ## Qt
 
