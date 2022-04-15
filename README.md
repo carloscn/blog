@@ -21,6 +21,7 @@
 * [Linux进程之间的通信-信号量（System V）](https://github.com/carloscn/blog/issues/15) [2022-4-1]
 * [Linux进程之间的通信-内存共享（System V）](https://github.com/carloscn/blog/issues/16) [2022-4-1]
 * [Linux进程之间的通信-消息队列（System V）](https://github.com/carloscn/blog/issues/17) [2022-4-2]
+* [06_Linux的动态共享库](https://github.com/carloscn/blog/issues/48) [2022-4-15]
 
 ## Linux - ELF
 
