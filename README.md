@@ -21,7 +21,6 @@
 * [Linux进程之间的通信-信号量（System V）](https://github.com/carloscn/blog/issues/15) [2022-4-1]
 * [Linux进程之间的通信-内存共享（System V）](https://github.com/carloscn/blog/issues/16) [2022-4-1]
 * [Linux进程之间的通信-消息队列（System V）](https://github.com/carloscn/blog/issues/17) [2022-4-2]
-* [06_Linux的动态共享库](https://github.com/carloscn/blog/issues/48) [2022-4-15]
 
 ## Linux - ELF
 
@@ -30,6 +29,7 @@
 * [03_ELF文件_静态链接](https://github.com/carloscn/blog/issues/11) [compiler](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3Acompiler) [GCC](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGCC) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [04_ELF文件_加载进程虚拟地址空间](https://github.com/carloscn/blog/issues/18) [2022-4-3] [2022-4-4]
 * [05_ELF文件_动态链接](https://github.com/carloscn/blog/issues/21) [2022-4-8] [2022-4-9]
+* [06_Linux的动态共享库](https://github.com/carloscn/blog/issues/48) [2022-4-15]
 
 ## Linux Kernel 
 
