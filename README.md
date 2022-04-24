@@ -33,6 +33,7 @@
 * [05_ELF文件_动态链接](https://github.com/carloscn/blog/issues/21) [2022-4-8] [2022-4-9]
 * [06_Linux的动态共享库](https://github.com/carloscn/blog/issues/48) [2022-4-15]
 * [07_ELF文件_堆和栈调用惯例以ARMv8为例](https://github.com/carloscn/blog/issues/50) [2022-4-19]
+* [08_ELF文件_运行库（入口、库、多线程）](https://github.com/carloscn/blog/issues/52) [2022-4-24]
 
 ## Linux Kernel 
 
