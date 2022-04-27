@@ -14,6 +14,7 @@
 * [10_ARMv8_异常处理（一） - 入口与返回、栈选择、异常向量表](https://github.com/carloscn/blog/issues/47) [2022-4-13] [2022-4-14]
 * [11_ARMv8_异常处理（二）- Legacy 中断处理](https://github.com/carloscn/blog/issues/49) [2022-4-18]
 * [12_ARMv8_异常处理（三）- GICv1/v2中断处理](https://github.com/carloscn/blog/issues/51) [2022-4-21]
+* [13_ARMv8_内存管理（一）-内存管理要素](https://github.com/carloscn/blog/issues/53) [2022-4-27]
 
 ## Linux Userspace
 
