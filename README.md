@@ -19,6 +19,7 @@
 * [15_ARMv8_内存管理（三）-MMU恒等映射及Linux实现](https://github.com/carloscn/blog/issues/55) [2022-5-7]
 * [16_ARMv8_高速缓存（一）cache要素](https://github.com/carloscn/blog/issues/57) [2022-5-9] [2022-5-10]
 * [17_ARMv8_高速缓存（二）ARM cache设计](https://github.com/carloscn/blog/issues/58) [2022-5-12]
+* [18_ARMv8_高速缓存（三）多核与一致性要素](https://github.com/carloscn/blog/issues/59) [2022-5-16]
 
 ## Linux Userspace
 
