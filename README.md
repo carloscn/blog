@@ -20,6 +20,7 @@
 * [16_ARMv8_高速缓存（一）cache要素](https://github.com/carloscn/blog/issues/57) [2022-5-9] [2022-5-10]
 * [17_ARMv8_高速缓存（二）ARM cache设计](https://github.com/carloscn/blog/issues/58) [2022-5-12]
 * [18_ARMv8_高速缓存（三）多核与一致性要素](https://github.com/carloscn/blog/issues/59) [2022-5-16]
+* [19_ARMv8_TLB管理(Translation Lookaside buffer)](https://github.com/carloscn/blog/issues/60) [2022-5-18]
 
 ## Linux Userspace
 
