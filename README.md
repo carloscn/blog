@@ -23,6 +23,7 @@
 * [17_ARMv8_高速缓存（二）ARM cache设计](https://github.com/carloscn/blog/issues/58) [2022-5-12]
 * [18_ARMv8_高速缓存（三）多核与一致性要素](https://github.com/carloscn/blog/issues/59) [2022-5-16]
 * [19_ARMv8_TLB管理(Translation Lookaside buffer)](https://github.com/carloscn/blog/issues/60) [2022-5-18]
+* [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] (updating)
 
 ### ARM Design (Private)
 
@@ -61,6 +62,7 @@
 
 ## Embedded
 
+* [01_bootloader/uboot/secureboot](https://github.com/carloscn/blog/issues/61) [2022-5-22] (updating)
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
 * [Using GDB and GDB-multi command note](https://gist.github.com/carloscn/f628bb08453cdda3a33de58caa06ba1f)
