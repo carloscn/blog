@@ -50,6 +50,7 @@
 
 ## Linux Kernel 
 
+* [01_Linux内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
 * [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
 
 ## Linux Driver
