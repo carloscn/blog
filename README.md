@@ -1,6 +1,11 @@
 # Blog Navigation
 
-## ARM
+## Knowledge
+
+### Linux Kernel 
+
+* [01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
+* [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
 
 ### ARMv8 Basic (Public)
 
@@ -26,11 +31,8 @@
 * [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] [2022-5-29]
 * [21_ARMv8_barrier（二）内存屏障案例](https://github.com/carloscn/blog/issues/63) [2022-5-29]
 
-### ARM Design (Private)
 
------------
-
-## Linux Userspace
+### Linux Userspace
 
 * [Linux-用户空间-多线程与同步](https://github.com/carloscn/blog/issues/9) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（上）](https://github.com/carloscn/blog/issues/13) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
@@ -48,12 +50,7 @@
 * [08_ELF文件_运行库（入口、库、多线程）](https://github.com/carloscn/blog/issues/52) [2022-4-24]
 * [09_ELF文件_基于ARMv7的Linux系统调用原理](https://github.com/carloscn/blog/issues/56) [2022-5-7]
 
-## Linux Kernel 
-
-* [01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
-* [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
-
-## Linux Driver
+### Linux Driver
 
 * [Linux Driver - GPIO键盘驱动开发记录_OMAPL138](https://github.com/carloscn/blog/issues/32) [2018-1-14]
 * [基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(一)之miscdevice和ioctl](https://github.com/carloscn/blog/issues/35) [2018-6-19]
@@ -62,7 +59,7 @@
 * [Linux内核调用SPI驱动_实现OLED显示功能](https://github.com/carloscn/blog/issues/38) [2018-8-23]
 * [Linux内核调用I2C驱动_驱动嵌套驱动方法MPU6050](https://github.com/carloscn/blog/issues/40) [2018-10-2]
 
-## Embedded
+### Embedded
 
 * [01_bootloader/uboot/secureboot](https://github.com/carloscn/blog/issues/61) [2022-5-22] (updating)
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
@@ -75,7 +72,7 @@
 * [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
 
-## Qt
+### Qt
 
 * [Qt_QtWebkits如何向QtWebEngine过渡](https://github.com/carloscn/blog/issues/23) [2017-7-17]
 * [Qt_开发北斗定位系统融合百度地图API及Qt程序打包发布](https://github.com/carloscn/blog/issues/24) [2017-7-22]
@@ -87,8 +84,16 @@
 * [Qt_FFTW組件的編譯安裝](https://github.com/carloscn/blog/issues/42) [2019-2-21]
 * [Qt on Linux 使用deb打包发布](https://github.com/carloscn/blog/issues/43) [2020-1-7]
 
-## Security
+### Security
 
 * [Openssl EVP to implement RSA and SM2 en/dec sign/verify](https://github.com/carloscn/blog/issues/44) [2020-9-2]
 * [基于Mac Silicon M1 的OpenSSL 编译](https://github.com/carloscn/blog/issues/45) [2021-2-25]
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
+
+-----------
+
+## Design
+
+### ARM Design (Private)
+
+
