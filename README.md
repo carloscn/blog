@@ -9,7 +9,7 @@
 
 ### Embedded
 
-* [01_ARMv7 SoC boot Flow](https://github.com/carloscn/blog/issues/61) [2022-5-22] (updating)
+* [01_ARMv7 boot Flow (SoC boot/ SPL / U-Boot)](https://github.com/carloscn/blog/issues/61) [2022-5-22] (updating)
 * [02_ARMv8 boot Flow (SoC boot / BL1 / BL2 / BL31)](https://github.com/carloscn/blog/issues/65) [2022-7-11] (updating)
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
