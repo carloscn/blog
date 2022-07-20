@@ -1,5 +1,8 @@
 # Blog Navigation
 
+本人博客源地址：https://github.com/carloscn/blog/edit/main/README.md 
+本人博客用来建立学习框架，并做一些学习笔记和心得，大部分是自己原创，一些来源于书籍、网络博客或者技术文档，并对非原创内容进行了引用标注。博客内容纯属于个人建立知识仓库以及个人学习使用，并非引流营销商业目的。欢迎指正错误与探讨问题，本人邮箱： carlos.wei.hk@gmail.com 
+
 ## Knowledge
 
 ### Linux Kernel 
