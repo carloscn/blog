@@ -102,4 +102,5 @@
 
 ### ARM Design (Private)
 
+* [ARM Secure Boot Unit Design (Cortex-A and Cortex-M)](https://github.com/carloscn/design/issues/1)
 
