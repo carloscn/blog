@@ -16,6 +16,9 @@
 * [01_Embedded_ARMv7/v8 Non-secure Boot Flow](https://github.com/carloscn/blog/issues/61) [2022-5-22]
 * [02_Embedded_ARMv8 ATF Secure Boot Flow (BL1/BL2/BL31)](https://github.com/carloscn/blog/issues/65) [2022-7-11]
 * [03_Embedded_ARMv8 BL33 Uboot Booting Flow](https://github.com/carloscn/blog/issues/67) [2022-7-22]
+
+### Embedded Knowledge sharing
+* [存储介质（一）eMMC存储介质结构和协议](https://gist.github.com/carloscn/d5e0d86b9f6ac2849771c159d86ba1dd) [2022-7-25]
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
 * [Using GDB and GDB-multi command note](https://gist.github.com/carloscn/f628bb08453cdda3a33de58caa06ba1f)
