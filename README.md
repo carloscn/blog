@@ -11,7 +11,7 @@
 * [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [empty]
 * [0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）](https://github.com/carloscn/blog/issues/68) [2022-7-27]
 * [0x23_LinuxKernel_内核活动（三）中断体系结构（中断下文）](https://github.com/carloscn/blog/issues/70) [2022-7-29]
-* [02_Linux内核_进程的管理和调度](https://github.com/carloscn/blog/issues/8) [LinuxKernel](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinuxKernel)
+* [0x24_LinuxKernel_进程（一）进程的管理（生命周期、进程表示）](https://github.com/carloscn/blog/issues/8) [2022-8-7]
 
 ### Embedded
 
