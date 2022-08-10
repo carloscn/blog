@@ -1,6 +1,6 @@
 # Blog Navigation
 
-本人博客源地址：https://github.com/carloscn/blog
+本人博客源地址：https://github.com/carloscn/blog/blob/main/README.md
 
 ## Knowledge
 
