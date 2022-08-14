@@ -7,19 +7,19 @@
 ### Linux Kernel 
 
 * [0x01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
-* [0x02_LinuxKernel_内核的启动（二）SMP多核处理器启动过程分析](https://github.com/carloscn/blog/issues/66) [2022-7-22]
+* [0x02_LinuxKernel_内核的启动（二）SMP多核处理器启动过程分析](https://github.com/carloscn/blog/issues/66) [TODO]
 * [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-8-9]
 * [0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）](https://github.com/carloscn/blog/issues/68) [2022-7-27]
 * [0x23_LinuxKernel_内核活动（三）中断体系结构（中断下文）](https://github.com/carloscn/blog/issues/70) [2022-7-29]
 * [0x24_LinuxKernel_进程（一）进程的管理（生命周期、进程表示）](https://github.com/carloscn/blog/issues/8) [2022-8-7]
-* [0x25_LinuxKernel_进程（二）进程的调度器的实现](https://github.com/carloscn/blog/issues/71) [empty]
-* [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [empty]
-* [0x27_LinuxKernel_设备驱动（二）字符设备操作](https://github.com/carloscn/blog/issues/73) [empty]
-* [0x28_LinuxKernel_设备驱动（三）块设备操作](https://github.com/carloscn/blog/issues/74) [empty]
-* [0x29_LinuxKernel_设备驱动（四）资源与总线系统 ](https://github.com/carloscn/blog/issues/75) [empty]
-* [0x30_LinuxKernel_设备驱动（五）模块](https://github.com/carloscn/blog/issues/76) [empty]
-* [0x31_LinuxKernel_进程虚拟内存（一）地址空间](https://github.com/carloscn/blog/issues/77) [empty]
-* [0x32_LinuxKernel_进程虚拟内存（二）内存映射、堆管理、缺页处理](https://github.com/carloscn/blog/issues/78) [empty]
+* [0x25_LinuxKernel_进程（二）进程的调度器的实现](https://github.com/carloscn/blog/issues/71) [TODO]
+* [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [TODO]
+* [0x27_LinuxKernel_设备驱动（二）字符设备操作](https://github.com/carloscn/blog/issues/73) [On-going]
+* [0x28_LinuxKernel_设备驱动（三）块设备操作](https://github.com/carloscn/blog/issues/74) [TODO]
+* [0x29_LinuxKernel_设备驱动（四）资源与总线系统 ](https://github.com/carloscn/blog/issues/75) [TODO]
+* [0x30_LinuxKernel_设备驱动（五）模块](https://github.com/carloscn/blog/issues/76) [TODO]
+* [0x31_LinuxKernel_进程虚拟内存（一）地址空间](https://github.com/carloscn/blog/issues/77) [TODO]
+* [0x32_LinuxKernel_进程虚拟内存（二）内存映射、堆管理、缺页处理](https://github.com/carloscn/blog/issues/78) [TODO]
 
 ### Embedded
 
