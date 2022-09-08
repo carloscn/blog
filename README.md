@@ -20,6 +20,7 @@
 * [0x30_LinuxKernel_设备驱动（五）模块](https://github.com/carloscn/blog/issues/76) [TODO]
 * [0x31_LinuxKernel_内存管理（一）物理页面、伙伴系统和slab分配器](https://github.com/carloscn/blog/issues/77) [2022-9-1]
 * [0x32_LinuxKernel_内存管理（二）虚拟内存管理、缺页与调试工具](https://github.com/carloscn/blog/issues/78) [2022-9-4]
+* [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8]
 
 ### Embedded
 
