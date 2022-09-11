@@ -29,6 +29,7 @@
 * [03_Embedded_ARMv8 BL33 Uboot Booting Flow](https://github.com/carloscn/blog/issues/67) [2022-7-22]
 
 ### Embedded Knowledge sharing
+* [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
 * [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) [2022-9-11]
 * [存储介质（一）eMMC存储介质结构和协议](https://gist.github.com/carloscn/d5e0d86b9f6ac2849771c159d86ba1dd) [2022-7-25]
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
