@@ -29,9 +29,6 @@
 * [03_Embedded_ARMv8 BL33 Uboot Booting Flow](https://github.com/carloscn/blog/issues/67) [2022-7-22]
 
 ### Embedded Knowledge sharing
-* [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) [2022-9-12]
-* [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
-* [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) [2022-9-11]
 * [存储介质（一）eMMC存储介质结构和协议](https://gist.github.com/carloscn/d5e0d86b9f6ac2849771c159d86ba1dd) [2022-7-25]
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
@@ -69,7 +66,10 @@
 
 
 ### Linux Userspace
-
+* [Linux机制之内存池]（https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51）[2022-9-13]
+* [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) [2022-9-12]
+* [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
+* [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) [2022-9-11]
 * [Linux-用户空间-多线程与同步](https://github.com/carloscn/blog/issues/9) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（上）](https://github.com/carloscn/blog/issues/13) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（下）](https://github.com/carloscn/blog/issues/14) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
