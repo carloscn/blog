@@ -66,7 +66,7 @@
 
 
 ### Linux Userspace
-* [Linux机制之内存池]（https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51）[2022-9-13]
+* [Linux机制之内存池](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) [2022-9-13]
 * [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) [2022-9-12]
 * [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
 * [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) [2022-9-11]
