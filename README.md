@@ -1,8 +1,4 @@
-# Blog Navigation
-
-本人博客源地址：https://github.com/carloscn/blog/blob/main/README.md
-
-## Knowledge
+# [Blog Navigation](https://github.com/carloscn/blog/blob/main/README.md)
 
 ## Coding Train
 * [0x01_算法和数据结构 - leetcode大集合 - C语言 - 每日一题](https://github.com/carloscn/structstudy) [updating] [2022-9-15]
