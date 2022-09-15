@@ -4,10 +4,10 @@
 
 ## Knowledge
 
-### Coding Train
+## Coding Train
 * [0x01_算法和数据结构 - leetcode大集合 - C语言 - 每日一题](https://github.com/carloscn/structstudy) [updating] [2022-9-15]
 
-### Linux Kernel 
+## Linux Kernel 
 * [0x01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
 * [0x02_LinuxKernel_内核的启动（二）SMP多核处理器启动过程分析](https://github.com/carloscn/blog/issues/66) [TODO]
 * [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-8-9]
@@ -23,15 +23,14 @@
 * [0x31_LinuxKernel_内存管理（一）物理页面、伙伴系统和slab分配器](https://github.com/carloscn/blog/issues/77) [2022-9-1]
 * [0x32_LinuxKernel_内存管理（二）虚拟内存管理、缺页与调试工具](https://github.com/carloscn/blog/issues/78) [2022-9-4]
 * [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8]
-----
-* [Linux Driver - GPIO键盘驱动开发记录_OMAPL138](https://github.com/carloscn/blog/issues/32) [2018-1-14]
-* [基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(一)之miscdevice和ioctl](https://github.com/carloscn/blog/issues/35) [2018-6-19]
-* [基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(二)之cdev与read、write](https://github.com/carloscn/blog/issues/36) [2018-6-21]
-* [基于OMAPL138的字符驱动_GPIO驱动AD9833(三)之中断申请IRQ](https://github.com/carloscn/blog/issues/37) [2018-6-23]
-* [Linux内核调用SPI驱动_实现OLED显示功能](https://github.com/carloscn/blog/issues/38) [2018-8-23]
-* [Linux内核调用I2C驱动_驱动嵌套驱动方法MPU6050](https://github.com/carloscn/blog/issues/40) [2018-10-2]
+* [example: Linux Driver - GPIO键盘驱动开发记录_OMAPL138](https://github.com/carloscn/blog/issues/32) [2018-1-14]
+* [example: 基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(一)之miscdevice和ioctl](https://github.com/carloscn/blog/issues/35) [2018-6-19]
+* [example: 基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(二)之cdev与read、write](https://github.com/carloscn/blog/issues/36) [2018-6-21]
+* [example: 基于OMAPL138的字符驱动_GPIO驱动AD9833(三)之中断申请IRQ](https://github.com/carloscn/blog/issues/37) [2018-6-23]
+* [example: Linux内核调用SPI驱动_实现OLED显示功能](https://github.com/carloscn/blog/issues/38) [2018-8-23]
+* [example: Linux内核调用I2C驱动_驱动嵌套驱动方法MPU6050](https://github.com/carloscn/blog/issues/40) [2018-10-2]
 
-### Linux Userspace
+## Linux Userspace
 
 * [Linux-用户空间-多线程与同步](https://github.com/carloscn/blog/issues/9) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（上）](https://github.com/carloscn/blog/issues/13) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
@@ -56,8 +55,7 @@
 * [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
 
 
-### ARMv8 Basic (Public)
-
+## ARMv8 Basic (Public)
 * [02_ARMv8_基本概念](https://github.com/carloscn/blog/issues/1) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [03_ARMv8_指令集介绍_加载指令集和存储指令集](https://github.com/carloscn/blog/issues/2) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [04_ARMv8_指令集_运算指令集](https://github.com/carloscn/blog/issues/3) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
@@ -80,12 +78,10 @@
 * [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] [2022-5-29]
 * [21_ARMv8_barrier（二）内存屏障案例](https://github.com/carloscn/blog/issues/63) [2022-5-29]
 
-### Embedded
-
+## Embedded
 * [01_Embedded_ARMv7/v8 Non-secure Boot Flow](https://github.com/carloscn/blog/issues/61) [2022-5-22]
 * [02_Embedded_ARMv8 ATF Secure Boot Flow (BL1/BL2/BL31)](https://github.com/carloscn/blog/issues/65) [2022-7-11]
 * [03_Embedded_ARMv8 BL33 Uboot Booting Flow](https://github.com/carloscn/blog/issues/67) [2022-7-22]
-------------------------
 * [存储介质（一）eMMC存储介质结构和协议](https://gist.github.com/carloscn/d5e0d86b9f6ac2849771c159d86ba1dd) [2022-7-25]
 * [在MACBOOK上搭建ARMv8架构的ARM开发环境](https://gist.github.com/carloscn/7774739514033fa7a9b5407f6fb880d8)
 * [Starting with JLink debugger or QEMU](https://github.com/carloscn/blog/issues/4) [Embedded](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AEmbedded) [GDB](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGDB)
@@ -97,8 +93,7 @@
 * [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
 
-### Qt
-
+## Qt
 * [Qt_QtWebkits如何向QtWebEngine过渡](https://github.com/carloscn/blog/issues/23) [2017-7-17]
 * [Qt_开发北斗定位系统融合百度地图API及Qt程序打包发布](https://github.com/carloscn/blog/issues/24) [2017-7-22]
 * [Qt_QWebChannel和JS、HTML通信/交互驱动百度地图](https://github.com/carloscn/blog/issues/25) [2017-8-11]
@@ -109,8 +104,7 @@
 * [Qt_FFTW組件的編譯安裝](https://github.com/carloscn/blog/issues/42) [2019-2-21]
 * [Qt on Linux 使用deb打包发布](https://github.com/carloscn/blog/issues/43) [2020-1-7]
 
-### Security
-
+## Security
 * [Openssl EVP to implement RSA and SM2 en/dec sign/verify](https://github.com/carloscn/blog/issues/44) [2020-9-2]
 * [基于Mac Silicon M1 的OpenSSL 编译](https://github.com/carloscn/blog/issues/45) [2021-2-25]
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
@@ -118,24 +112,5 @@
 -----------
 
 ## Design
-
 ### ARM Design (Private)
-
 * [ARM Secure Boot Unit Design (Cortex-A and Cortex-M)](https://github.com/carloscn/design/issues/1)
-
-
-学习目标和顺序：
-* 【操作系统概念】依靠书籍、论文等：
-  * 理论阶段；
-  * 对于一些模型影响因素的数字化量化的掌握；
-  * 了解操作系统的各个机制的发展史、设计原因；
-  * 协定好专业术语；
-  * 理解当前设计的痛点和难点，优缺点；
-  * 更高一层级的去看主流操作系统的设计。
-* 【ARM架构级支持】依靠ARM手册：
-  * 了解CPU底层实现原理和接口；
-  * 区分操作系统软件和CPU的各自职责；
-* 【操作系统实例】：
-  * 以Linux或者RTOS主流的操作系统作为实例，研究操作系统模块的经典实例；
-  * 了解抽象的操作系统概念具体化过程；
-  * 了解操作系统如何和ARM配合的bringup过程。
