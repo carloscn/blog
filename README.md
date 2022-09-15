@@ -66,6 +66,7 @@
 
 
 ### Linux Userspace
+* [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) [2022-9-15]
 * [Linux机制之内存池](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) [2022-9-13]
 * [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) [2022-9-12]
 * [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
