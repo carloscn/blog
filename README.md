@@ -11,7 +11,7 @@
 * [0x23_LinuxKernel_内核活动（三）中断体系结构（中断下文）](https://github.com/carloscn/blog/issues/70) [2022-7-29]
 * [0x24_LinuxKernel_进程（一）进程的管理（生命周期、进程表示）](https://github.com/carloscn/blog/issues/8) [2022-8-7]
 * [0x25_LinuxKernel_进程（二）进程的调度器的实现](https://github.com/carloscn/blog/issues/71) [TODO]
-* [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [TODO]
+* [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-16]
 * [0x27_LinuxKernel_设备驱动（二）字符设备操作](https://github.com/carloscn/blog/issues/73) [On-going]
 * [0x28_LinuxKernel_设备驱动（三）块设备操作](https://github.com/carloscn/blog/issues/74) [TODO]
 * [0x29_LinuxKernel_设备驱动（四）资源与总线系统 ](https://github.com/carloscn/blog/issues/75) [TODO]
