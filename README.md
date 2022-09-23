@@ -19,7 +19,6 @@
 * [0x31_LinuxKernel_内存管理（一）物理页面、伙伴系统和slab分配器](https://github.com/carloscn/blog/issues/77) [2022-9-1]
 * [0x32_LinuxKernel_内存管理（二）虚拟内存管理、缺页与调试工具](https://github.com/carloscn/blog/issues/78) [2022-9-4]
 * [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8]
-* [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23]
 * [example: Linux Driver - GPIO键盘驱动开发记录_OMAPL138](https://github.com/carloscn/blog/issues/32) [2018-1-14]
 * [example: 基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(一)之miscdevice和ioctl](https://github.com/carloscn/blog/issues/35) [2018-6-19]
 * [example: 基于OMAPL138的Linux字符驱动_GPIO驱动AD9833(二)之cdev与read、write](https://github.com/carloscn/blog/issues/36) [2018-6-21]
@@ -50,7 +49,7 @@
 * [Linux机制之内存池](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) [2022-9-13]
 * [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) [2022-9-15]
 * [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
-
+* [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23]
 
 ## ARMv8 Basic (Public)
 * [02_ARMv8_基本概念](https://github.com/carloscn/blog/issues/1) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
