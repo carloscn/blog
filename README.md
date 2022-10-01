@@ -28,7 +28,6 @@
 * [Example: Linux内核调用I2C驱动_驱动嵌套驱动方法MPU6050](https://github.com/carloscn/blog/issues/40) [2018-10-2]
 
 ## Linux Userspace
-
 * [Linux-用户空间-多线程与同步](https://github.com/carloscn/blog/issues/9) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（上）](https://github.com/carloscn/blog/issues/13) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [Linux进程之间的通信-管道（下）](https://github.com/carloscn/blog/issues/14) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
@@ -89,6 +88,12 @@
 * [DSP+ARM多核异构开发环境搭建OMAPL138](https://github.com/carloscn/blog/issues/33) [2018-6-8]
 * [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
+
+## OPTEE
+* [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
+* [02_OPTEE-OS_基础之（二）TrustZone和ATF功能综述、简要介绍 ](https://github.com/carloscn/blog/issues/92) [2022-10-1]
+* [03_OPTEE-OS_系统集成之（一）编译、实例、在QEMU上执行](https://github.com/carloscn/blog/issues/93) [2022-10-1]
+* [04_OPTEE-OS_系统集成之（二）基于QEMU的OPTEE启动过程](https://github.com/carloscn/blog/issues/94) [2022-10-2]
 
 ## Qt
 * [Qt_QtWebkits如何向QtWebEngine过渡](https://github.com/carloscn/blog/issues/23) [2017-7-17]
