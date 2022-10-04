@@ -96,7 +96,7 @@
 * [04_OPTEE-OS_系统集成之（二）基于QEMU的OPTEE启动过程](https://github.com/carloscn/blog/issues/94) [2022-10-2]
 * [05_OPTEE-OS_系统集成之（三）ATF启动过程](https://github.com/carloscn/blog/issues/95) [2022-10-3]
 * [06_OPTEE-OS_系统集成之（四）OPTEE镜像启动过程](https://github.com/carloscn/blog/issues/96) [2022-10-4]
-* [07_OPTEE-OS_系统集成之（五）REE侧上层软件](https://github.com/carloscn/blog/issues/97) [todo]
+* [07_OPTEE-OS_系统集成之（五）REE侧上层软件](https://github.com/carloscn/blog/issues/97) [2022-10-4]
 * [08_OPTEE-OS_系统集成之（六）TEE的驱动](https://github.com/carloscn/blog/issues/98) [todo]
 * [09_OPTEE-OS_内核之（一）ARM核安全态和非安全态的切换](https://github.com/carloscn/blog/issues/99) [todo]
 * [10_OPTEE-OS_内核之（二）对安全监控模式的调用的处理](https://github.com/carloscn/blog/issues/100) [todo]
