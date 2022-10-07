@@ -102,14 +102,14 @@
 * [10_OPTEE-OS_内核之（二）对安全监控模式的调用的处理](https://github.com/carloscn/blog/issues/100) [2022-10-5]
 * [11_OPTEE-OS_内核之（三）中断与异常的处理](https://github.com/carloscn/blog/issues/101) [2022-10-5]
 * [12_OPTEE-OS_内核之（四）对TA请求的处理](https://github.com/carloscn/blog/issues/102) [2022-10-6]
-* [13_OPTEE-OS_内核之（五）内存和cache管理](https://github.com/carloscn/blog/issues/103) [2022-10-6]
+* [13_OPTEE-OS_内核之（五）内存和cache管理](https://github.com/carloscn/blog/issues/103) [TODO]
 * [14_OPTEE-OS_内核之（六）线程管理与并发](https://github.com/carloscn/blog/issues/104) [2022-10-6]
 * [15_OPTEE-OS_内核之（七）系统调用及IPC机制](https://github.com/carloscn/blog/issues/105) [2022-10-6]
 * [16_OPTEE-OS_应用之（一）TA镜像的签名和加载](https://github.com/carloscn/blog/issues/106) [2022-10-7]
-* [17_OPTEE-OS_应用之（二）密码学算法和安全存储](https://github.com/carloscn/blog/issues/107) [2022-10-7]
+* [17_OPTEE-OS_应用之（二）密码学算法和安全存储](https://github.com/carloscn/blog/issues/107) [TODO]
 * [18_OPTEE-OS_应用之（三）可信应用的开发](https://github.com/carloscn/blog/issues/108) [2022-10-7]
-* [19_OPTEE-OS_应用之（四）安全驱动开发](https://github.com/carloscn/blog/issues/109) [2022-10-7]
-* [20_OPTEE-OS_应用之（五）终端密钥在线下发系统](https://github.com/carloscn/blog/issues/110) [2022-10-7]
+* [19_OPTEE-OS_应用之（四）安全驱动开发](https://github.com/carloscn/blog/issues/109) [TODO]
+* [20_OPTEE-OS_应用之（五）终端密钥在线下发系统](https://github.com/carloscn/blog/issues/110) [TODO]
 
 ## Qt
 * [Qt_QtWebkits如何向QtWebEngine过渡](https://github.com/carloscn/blog/issues/23) [2017-7-17]
