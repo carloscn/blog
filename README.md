@@ -1,7 +1,8 @@
 # [Blog Navigation](https://github.com/carloscn/blog/blob/main/README.md)
 
-## Coding Train
-* [0x01_算法和数据结构 - leetcode大集合 - C语言 - 每日一题](https://github.com/carloscn/structstudy) [updating] [2022-9-15]
+> 能感觉到科技进步给社会带来了巨大的便利，可这背后就需要开发者对知识有深度和广度。对于知识的渴求，我往往都是急于掌握与焦虑，急于能快速的上手。一定要慢慢来，不要急！即便是这个社会非常浮躁，也需要有能力在嘈杂声音中静下心来，需要定力与自控。请慢慢来。
+>
+> (于ShenZhen 2022)
 
 ## Linux Kernel 
 * [0x01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
@@ -121,6 +122,9 @@
 * [Qt_QWT编译与配置-Windows/Linux环境](https://github.com/carloscn/blog/issues/41) [2019-2-18]
 * [Qt_FFTW組件的編譯安裝](https://github.com/carloscn/blog/issues/42) [2019-2-21]
 * [Qt on Linux 使用deb打包发布](https://github.com/carloscn/blog/issues/43) [2020-1-7]
+
+## Coding Train
+* [0x01_算法和数据结构 - leetcode大集合 - C语言 - 每日一题](https://github.com/carloscn/structstudy) [updating] [2022-9-15]
 
 ## Security
 * [Openssl EVP to implement RSA and SM2 en/dec sign/verify](https://github.com/carloscn/blog/issues/44) [2020-9-2]
