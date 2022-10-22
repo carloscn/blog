@@ -4,7 +4,7 @@
 >
 > (于ShenZhen 2022)``
 
-<div align='center'><img src="https://raw.githubusercontent.com/carloscn/blog/main/技术Scope.svg" width="100%" /></div>
+<div align='center'><img src="https://raw.githubusercontent.com/carloscn/blog/main/技术Scope.svg" width="60%" /></div>
 
 ## Linux Kernel 
 
