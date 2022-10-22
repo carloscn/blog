@@ -2,9 +2,12 @@
 
 > 能感觉到科技进步给社会带来了巨大的便利，可这背后就需要开发者对知识有深度和广度。对于知识的渴求，我往往都是急于掌握与焦虑，急于能快速的上手。一定要慢慢来，不要急！即便是这个社会非常浮躁，也需要有能力在嘈杂声音中静下心来，需要定力与自控。请慢慢来。
 >
-> (于ShenZhen 2022)
+> (于ShenZhen 2022)``
+
+<div align='center'><img src="https://raw.githubusercontent.com/carloscn/blog/main/技术scope.svg" width="100%" /></div>
 
 ## Linux Kernel 
+
 * [0x01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
 * [0x02_LinuxKernel_内核的启动（二）SMP多核处理器启动过程分析](https://github.com/carloscn/blog/issues/66) [TODO]
 * [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-8-9]
