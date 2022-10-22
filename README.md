@@ -4,8 +4,6 @@
 >
 > (于ShenZhen 2022)``
 
-<div align='center'><img src="https://raw.githubusercontent.com/carloscn/blog/main/技术Scope.svg" width="60%" /></div>
-
 ## Linux Kernel 
 
 * [0x01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5]
@@ -163,6 +161,8 @@
 ## 笔记
 * [NXP IMX6 嵌入式板子一些笔记](https://gist.github.com/carloscn/a533af3bc5d769fc07a2c301a61f5802) [2022-9-17]
 -----------
+
+<div align='center'><img src="https://raw.githubusercontent.com/carloscn/blog/main/技术Scope.svg" width="60%" /></div>
 
 ## Design
 ### ARM Design (Private)
