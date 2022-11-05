@@ -116,6 +116,7 @@
 * [DSP+ARM多核异构开发环境搭建OMAPL138](https://github.com/carloscn/blog/issues/33) [2018-6-8]
 * [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
+* [[Embedded] ZYNQ-使用petalinux建立启动引导项（QSPI/JTAG/SD/TFTP）](https://github.com/carloscn/blog/issues/146) [2022-11-05]
 
 ## OPTEE
 * [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
