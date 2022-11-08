@@ -118,6 +118,7 @@
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
 * [[Embedded] ZYNQ-UltraScale+的启动流程](https://github.com/carloscn/blog/issues/147) [2022-11-05]
 * [[Embedded] ZYNQ-使用petalinux建立启动引导项（QSPI/JTAG/SD/TFTP）](https://github.com/carloscn/blog/issues/146) [2022-11-05]
+* [[Embedded] ZYNQ-Secure Boot Flow](https://github.com/carloscn/blog/issues/148) [2022-11-7]
 
 ## OPTEE
 * [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
