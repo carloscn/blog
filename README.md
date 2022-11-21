@@ -119,6 +119,10 @@
 * [[Embedded] ZYNQ-UltraScale+的启动流程](https://github.com/carloscn/blog/issues/147) [2022-11-05]
 * [[Embedded] ZYNQ-使用petalinux建立启动引导项（QSPI/JTAG/SD/TFTP）](https://github.com/carloscn/blog/issues/146) [2022-11-05]
 * [[Embedded] ZYNQ-Secure Boot Flow](https://github.com/carloscn/blog/issues/148) [2022-11-7]
+* [[Embedded] ZYNQ-Secure Storage ](https://github.com/carloscn/blog/issues/149) [2022-11-8]
+* [[embedded] NXP-LS1046的image操作](https://github.com/carloscn/blog/issues/150) [2022-11-11]
+* [[Embedded] NXP-LS1046的启动流程](https://github.com/carloscn/blog/issues/151) [2022-11-16]
+* [[Embedded] NXP-LS1046 secure boot ](https://github.com/carloscn/blog/issues/152) [2022-11-16]
 
 ## OPTEE
 * [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
