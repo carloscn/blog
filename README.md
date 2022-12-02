@@ -171,7 +171,14 @@
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
 
 ## DSP - f2812
-* [[DSP] F2812 - CMD文件](https://github.com/carloscn/blog/issues/157) [2014-04-22]
+* [DSP-F2812的CMD文件](https://github.com/carloscn/blog/issues/157) [2014-04-22]
+* [DSP-F2812的时钟和系统控制](https://github.com/carloscn/blog/issues/158) [2014-04-23]
+* [DSP-F2812的通用输入输出多路复用器GPIO](https://github.com/carloscn/blog/issues/159) [2014-04-24]
+* [DSP-F2812的CPU定时器](https://github.com/carloscn/blog/issues/160) [2014-04-25]
+* [DSP-F2812的中断系统](https://github.com/carloscn/blog/issues/161) [2014-05-01]
+* [DSP-F2812的事件管理器EV](https://github.com/carloscn/blog/issues/162) [2014-05-02]
+* [DSP-F2812的模数转换器ADC](https://github.com/carloscn/blog/issues/163) [2014-05-03]
+* [DSP-F2812的串行通信接口SCI](https://github.com/carloscn/blog/issues/164) [2014-05-04]
 
 ## 笔记
 * [NXP IMX6 嵌入式板子一些笔记](https://gist.github.com/carloscn/a533af3bc5d769fc07a2c301a61f5802) [2022-9-17]
