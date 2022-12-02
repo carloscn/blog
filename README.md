@@ -158,9 +158,6 @@
 * [Qt_FFTW組件的編譯安裝](https://github.com/carloscn/blog/issues/42) [2019-2-21]
 * [Qt on Linux 使用deb打包发布](https://github.com/carloscn/blog/issues/43) [2020-1-7]
 
-## Coding Train
-* [0x01_算法和数据结构 - leetcode大集合 - C语言 - 每日一题](https://github.com/carloscn/structstudy) [updating] [2022-9-15]
-
 ## Security
 * [1.0_Security_计算机安全概述及安全需求](https://github.com/carloscn/blog/issues/135) [TODO]
 * [2.0_Security_随机数（伪随机数）](https://github.com/carloscn/blog/issues/136) [2022-10-23]
@@ -170,7 +167,7 @@
 * [基于Mac Silicon M1 的OpenSSL 编译](https://github.com/carloscn/blog/issues/45) [2021-2-25]
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
 
-## DSP - f2812
+## DSP
 * [DSP-F2812的CMD文件](https://github.com/carloscn/blog/issues/157) [2014-04-22]
 * [DSP-F2812的时钟和系统控制](https://github.com/carloscn/blog/issues/158) [2014-04-23]
 * [DSP-F2812的通用输入输出多路复用器GPIO](https://github.com/carloscn/blog/issues/159) [2014-04-24]
