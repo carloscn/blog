@@ -170,6 +170,9 @@
 * [基于Mac Silicon M1 的OpenSSL 编译](https://github.com/carloscn/blog/issues/45) [2021-2-25]
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
 
+## DSP - f2812
+* [[DSP] F2812 - CMD文件](https://github.com/carloscn/blog/issues/157) [2014-04-22]
+
 ## 笔记
 * [NXP IMX6 嵌入式板子一些笔记](https://gist.github.com/carloscn/a533af3bc5d769fc07a2c301a61f5802) [2022-9-17]
 -----------
