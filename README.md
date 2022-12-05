@@ -32,6 +32,15 @@
 * [Linux进程之间的通信-信号量（System V）](https://github.com/carloscn/blog/issues/15) [2022-4-1]
 * [Linux进程之间的通信-内存共享（System V）](https://github.com/carloscn/blog/issues/16) [2022-4-1]
 * [Linux进程之间的通信-消息队列（System V）](https://github.com/carloscn/blog/issues/17) [2022-4-2]
+* [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) [2022-9-11]
+* [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
+* [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) [2022-9-12]
+* [Linux机制之内存池](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) [2022-9-13]
+* [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) [2022-9-15]
+* [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
+* [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23]
+
+## ARM bin-utils
 * [01_ELF文件_目标文件格式](https://github.com/carloscn/blog/issues/5) [GCC](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGCC) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [02_ELF文件结构_浅析内部文件结构](https://github.com/carloscn/blog/issues/6) [GCC](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGCC) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
 * [03_ELF文件_静态链接](https://github.com/carloscn/blog/issues/11) [compiler](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3Acompiler) [GCC](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGCC) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
@@ -41,13 +50,6 @@
 * [07_ELF文件_堆和栈调用惯例以ARMv8为例](https://github.com/carloscn/blog/issues/50) [2022-4-19]
 * [08_ELF文件_运行库（入口、库、多线程）](https://github.com/carloscn/blog/issues/52) [2022-4-24]
 * [09_ELF文件_基于ARMv7的Linux系统调用原理](https://github.com/carloscn/blog/issues/56) [2022-5-7]
-* [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) [2022-9-11]
-* [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) [2022-9-11]
-* [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) [2022-9-12]
-* [Linux机制之内存池](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) [2022-9-13]
-* [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) [2022-9-15]
-* [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
-* [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23]
 
 ## ARMv8
 * [02_ARMv8_基本概念](https://github.com/carloscn/blog/issues/1) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
