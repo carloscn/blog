@@ -163,6 +163,8 @@
 * [2.0_Security_随机数（伪随机数）](https://github.com/carloscn/blog/issues/136) [2022-10-23]
 * [3.0_Security_对称密钥算法加解密](https://github.com/carloscn/blog/issues/137) [2022-10-23]
 * [3.1_Security_对称密钥算法之AES](https://github.com/carloscn/blog/issues/138) [2022-10-25]
+* [3.2_Security_对称密钥算法之MAC（CMAC/HMAC）](https://github.com/carloscn/blog/issues/144) [2022-10-27]
+* [3.3_Security_对称密钥算法之AEAD](https://github.com/carloscn/blog/issues/145) [2022-11-27]
 * [Openssl EVP to implement RSA and SM2 en/dec sign/verify](https://github.com/carloscn/blog/issues/44) [2020-9-2]
 * [基于Mac Silicon M1 的OpenSSL 编译](https://github.com/carloscn/blog/issues/45) [2021-2-25]
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
