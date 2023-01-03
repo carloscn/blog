@@ -123,6 +123,7 @@
 * [[Embedded] NXP-LS1046的启动流程](https://github.com/carloscn/blog/issues/151) [2022-11-16]
 * [[Embedded] NXP-LS1046 secure boot ](https://github.com/carloscn/blog/issues/152) [2022-11-16]
 * [[Embedded] x86-UEFI-Secure-Boot](https://github.com/carloscn/blog/issues/156) [2022-11-24]
+* [[Embedded] cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform](https://github.com/carloscn/blog/issues/169) [2023-01-03]
 
 ## OPTEE
 * [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
