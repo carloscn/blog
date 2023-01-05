@@ -188,3 +188,4 @@
 ## Design
 ### ARM Design (Private)
 * [ARM Secure Boot Unit Design (Cortex-A and Cortex-M)](https://github.com/carloscn/design/issues/1)
+* [[ZYNQ] Decrypting Partition by the Decrypt Agent Using PUF key](https://github.com/carloscn/design/issues/10) [2023-01-05]
