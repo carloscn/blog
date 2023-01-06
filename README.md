@@ -125,6 +125,7 @@
 * [[Embedded] x86-UEFI-Secure-Boot](https://github.com/carloscn/blog/issues/156) [2022-11-24]
 * [[Embedded] cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform](https://github.com/carloscn/blog/issues/169) [2023-01-03]
 * [[Embedded] enabling the cryptsetup on ramdisk](https://github.com/carloscn/blog/issues/170) [2023-01-05]
+* [[ZYNQ] Decrypting Partition by the Decrypt Agent Using PUF key](https://github.com/carloscn/design/issues/10) [2023-01-05]
 
 ## OPTEE
 * [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
@@ -189,4 +190,4 @@
 ## Design
 ### ARM Design (Private)
 * [ARM Secure Boot Unit Design (Cortex-A and Cortex-M)](https://github.com/carloscn/design/issues/1)
-* [[ZYNQ] Decrypting Partition by the Decrypt Agent Using PUF key](https://github.com/carloscn/design/issues/10) [2023-01-05]
+
