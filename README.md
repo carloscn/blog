@@ -40,6 +40,7 @@
 * [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
 * [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23]
 * [Linux System : Managing Linux Services - inittab & init.d ](https://github.com/carloscn/blog/issues/171) [2023-01-14]
+* [Linux System : Managing Linux Services - initramfs](https://github.com/carloscn/blog/issues/173) [2023-01-15]
 
 ## ARM bin-utils
 * [01_ELF文件_目标文件格式](https://github.com/carloscn/blog/issues/5) [GCC](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AGCC) [Linux](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
