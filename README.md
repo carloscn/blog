@@ -80,7 +80,7 @@
 ## ARMv7-M (Cortex-M)
 * [01_ARMv7-M_处理器架构技术综述](https://github.com/carloscn/blog/issues/122) [2023-04-01]
 * [02_ARMv7-M_汇编及指令集](https://github.com/carloscn/blog/issues/123) [study-2023]
-* [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [study-2023]
+* [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [2023-04-13]
 * [04_ARMv7-M_异常处理及中断处理](https://github.com/carloscn/blog/issues/127) [study-2023]
 * [05_ARMv7-M_低功耗和系统控制特性](https://github.com/carloscn/blog/issues/125) [study-2023]
 * [06_ARMv7-M_OS支持特性](https://github.com/carloscn/blog/issues/128) [study-2023]
