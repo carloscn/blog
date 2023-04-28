@@ -52,6 +52,7 @@
 * [07_ELF文件_堆和栈调用惯例以ARMv8为例](https://github.com/carloscn/blog/issues/50) [2022-4-19]
 * [08_ELF文件_运行库（入口、库、多线程）](https://github.com/carloscn/blog/issues/52) [2022-4-24]
 * [09_ELF文件_基于ARMv7的Linux系统调用原理](https://github.com/carloscn/blog/issues/56) [2022-5-7]
+* [10_ELF文件_ARM的镜像文件(.bin/.hex/.s19)](https://github.com/carloscn/blog/issues/184) [2023-04-28]
 * [01_Script_makefile_summary](https://github.com/carloscn/blog/issues/167) [2022-12-6]
 
 ## ARMv8
