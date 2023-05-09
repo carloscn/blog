@@ -80,7 +80,7 @@
 
 ## ARMv7-M (Cortex-M)
 * [01_ARMv7-M_处理器架构技术综述](https://github.com/carloscn/blog/issues/122) [2023-04-01]
-* [02_ARMv7-M_汇编及指令集](https://github.com/carloscn/blog/issues/123) [study-2023]
+* [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [study-2023]
 * [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [2023-04-13]
 * [04_ARMv7-M_异常处理及中断处理](https://github.com/carloscn/blog/issues/127) [2023-04-23]
 * [05_ARMv7-M_低功耗和系统控制特性](https://github.com/carloscn/blog/issues/125) [study-2023]
@@ -90,6 +90,7 @@
 * [09_ARMv7-M_FPU浮点运算](https://github.com/carloscn/blog/issues/130) [study-2023]
 * [10_ARMv7-M_汇编和C语言混合工程](https://github.com/carloscn/blog/issues/131) [study-2023]
 * [11_ARMv7-M_软件移植技术概述](https://github.com/carloscn/blog/issues/132) [study-2023]
+* [12_ARMv7-M_汇编及指令集](https://github.com/carloscn/blog/issues/185) [study-2023]
 * **[ARMv7-M的一些高级话题](https://github.com/carloscn/blog/discussions/133)** [study-2023]
 
 ## RTOS
