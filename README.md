@@ -188,6 +188,7 @@
 
 ## 笔记
 * [NXP IMX6 嵌入式板子一些笔记](https://gist.github.com/carloscn/a533af3bc5d769fc07a2c301a61f5802) [2022-9-17]
+* [Compiler optimization and the volatile keyword](https://gist.github.com/carloscn/354c7b91e49fa44110dafa1b8b2776c3) [2022-04-13]
 -----------
 
 <div align='center'><img src="https://raw.githubusercontent.com/carloscn/blog/main/技术Scope.svg" width="60%" /></div>
