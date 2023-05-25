@@ -177,6 +177,9 @@
 * [基于Mac Silicon M1 的OpenSSL 编译](https://github.com/carloscn/blog/issues/45) [2021-2-25]
 * [How to compile mbedtls library on Linux/Mac/Windows](https://github.com/carloscn/blog/issues/46)
 
+## Rust System Programming
+* [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
+
 ## DSP
 * [DSP-F2812的CMD文件](https://github.com/carloscn/blog/issues/157) [2014-04-22]
 * [DSP-F2812的时钟和系统控制](https://github.com/carloscn/blog/issues/158) [2014-04-23]
