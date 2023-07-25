@@ -119,17 +119,6 @@
 * [DSP+ARM多核异构开发环境搭建OMAPL138](https://github.com/carloscn/blog/issues/33) [2018-6-8]
 * [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
-* [[Embedded] ZYNQ-UltraScale+的启动流程](https://github.com/carloscn/blog/issues/147) [2022-11-05]
-* [[Embedded] ZYNQ-使用petalinux建立启动引导项（QSPI/JTAG/SD/TFTP）](https://github.com/carloscn/blog/issues/146) [2022-11-05]
-* [[Embedded] ZYNQ-Secure Boot Flow](https://github.com/carloscn/blog/issues/148) [2022-11-7]
-* [[Embedded] ZYNQ-Secure Storage ](https://github.com/carloscn/blog/issues/149) [2022-11-8]
-* [[embedded] NXP-LS1046的image操作](https://github.com/carloscn/blog/issues/150) [2022-11-11]
-* [[Embedded] NXP-LS1046的启动流程](https://github.com/carloscn/blog/issues/151) [2022-11-16]
-* [[Embedded] NXP-LS1046 secure boot ](https://github.com/carloscn/blog/issues/152) [2022-11-16]
-* [[Embedded] x86-UEFI-Secure-Boot](https://github.com/carloscn/blog/issues/156) [2022-11-24]
-* [[Embedded] cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform](https://github.com/carloscn/blog/issues/169) [2023-01-03]
-* [[Embedded] enabling the cryptsetup on ramdisk](https://github.com/carloscn/blog/issues/170) [2023-01-05]
-* [[ZYNQ] Decrypting Partition by the Decrypt Agent Using PUF key](https://github.com/carloscn/design/issues/10) [2023-01-05]
 * [(Embedded) NXP-imx6 initialization](https://github.com/carloscn/blog/issues/172) [2023-01-14]
 
 ## OPTEE
