@@ -78,7 +78,7 @@
 * [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] [2022-5-29]
 * [21_ARMv8_barrier（二）内存屏障案例](https://github.com/carloscn/blog/issues/63) [2022-5-29]
 
-## ARMv7-M (Cortex-M)
+## Cortex-M
 * [01_ARMv7-M_处理器架构技术综述](https://github.com/carloscn/blog/issues/122) [2023-04-01]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
 * [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [2023-04-13]
@@ -91,6 +91,7 @@
 * [10_ARMv7-M_汇编和C语言混合工程](https://github.com/carloscn/blog/issues/131) [study-2023]
 * [11_ARMv7-M_软件移植技术概述](https://github.com/carloscn/blog/issues/132) [study-2023]
 * [12_ARMv7-M_汇编及指令集](https://github.com/carloscn/blog/issues/185) [study-2023]
+* [[armv8-m] trustzone tech overall](https://github.com/carloscn/blog/issues/197) [2023-11-07]
 * **[ARMv7-M的一些高级话题](https://github.com/carloscn/blog/discussions/133)** [study-2023]
 
 ## RTOS
