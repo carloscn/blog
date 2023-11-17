@@ -91,7 +91,8 @@
 * [10_ARMv7-M_汇编和C语言混合工程](https://github.com/carloscn/blog/issues/131) [study-2023]
 * [11_ARMv7-M_软件移植技术概述](https://github.com/carloscn/blog/issues/132) [study-2023]
 * [12_ARMv7-M_汇编及指令集](https://github.com/carloscn/blog/issues/185) [study-2023]
-* [[armv8-m] trustzone tech overall](https://github.com/carloscn/blog/issues/197) [2023-11-07]
+* [[armv8-m] TrustZone Tech Overview](https://github.com/carloscn/blog/issues/197) [2023-11-07]
+* [[armv8-m] TrustZone Tech Description](https://github.com/carloscn/blog/issues/199) [2023-11-17]
 * **[ARMv7-M的一些高级话题](https://github.com/carloscn/blog/discussions/133)** [study-2023]
 
 ## RTOS
