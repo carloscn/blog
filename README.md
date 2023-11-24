@@ -56,6 +56,7 @@
 * [01_Script_makefile_summary](https://github.com/carloscn/blog/issues/167) [2022-12-6]
 
 ## ARMv8
+* [[ARMv8] C语言的一些有趣的特性](https://github.com/carloscn/blog/issues/203) [2023-11-24]
 * [02_ARMv8_基本概念](https://github.com/carloscn/blog/issues/1) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [03_ARMv8_指令集介绍_加载指令集和存储指令集](https://github.com/carloscn/blog/issues/2) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
 * [04_ARMv8_指令集_运算指令集](https://github.com/carloscn/blog/issues/3) [ARMv8](https://github.com/carloscn/blog/issues?q=is%3Aissue+is%3Aopen+label%3AARMv8)
