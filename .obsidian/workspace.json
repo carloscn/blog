@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "98c7f9e4770ecf49",
+    "type": "split",
+    "children": [
+      {
+        "id": "59558c0e6ddd6bb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6a6abe5cd134ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "330675894964ac4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d8be887ae33efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "373c70d051f07ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7a0a35728d4504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8848a43f2a2fa05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29757798a3eb6f31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3584d5fcd0844b69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb02557dfd0a8553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "0de2fbf1f1a49bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbe55c5f1b3128a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4686e581ce314a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9953d147039d4ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21b3b79238ec9bff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fbed2a84eeeae9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a6a6abe5cd134ab5",
+  "lastOpenFiles": [
+    "embedded/ls104x/board/[embedded] NXP-LS1046的image操作.md",
+    "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
+    "embedded/ls104x/board/[Embedded] NXP-LS1046的启动流程.md",
+    "embedded/ls104x/board/[Embedded] NXP-LS1046 secure boot.md",
+    "embedded/(Embedded) NXP-IMX-RT1170 hard&soft platform.md",
+    "embedded/ls104x/app/(LS104x) 使用FIT的kernel格式和initramfs.md",
+    "design/app/Secure Boot的一些调研.md",
+    "embedded/ls104x/app",
+    "embedded/ls104x/board",
+    "embedded/ls104x",
+    "arm_v8m/03_ARMv8M_Trustzone_stm32l5_implement_and_demos.md",
+    "design/app",
+    "arm_v8m/02_ARMv8M_Trustzone_Features.md",
+    "arm_v8m/01_ARMv8M_Trustzone_技术综述.md",
+    "arm_v8/03_ARMv8_指令集介绍_加载指令集和存储指令集.md",
+    "cortex_m_os/02_ARMv7m_Access_Register.md",
+    "cortex_m_os/01_ARMv7m_Using_The_RUST_Cross_Compiler.md",
+    "android/01_Android_搭建Kernel开发环境.md",
+    "embedded/ls104x/app/(LS104x) ostree制作sd卡.md",
+    "android",
+    "arm_v8m/(armv8) trustzone aarch.md",
+    "arm_v8m",
+    "embedded/ls104x/app/(LS104x) ostree的部署.md",
+    "embedded/ls104x/app/(LS104x) ostree的移植.md",
+    "embedded/ls104x/app/(LS104x) 使用ostree更新rootfs.md",
+    "embedded/[Embedded] ZYNQ-UltraScale+的启动流程.md",
+    "english/grammar/01_语法_语法概论与Overview.md",
+    "english/学习导向.md",
+    "english/grammar",
+    "english",
+    "arm_m/01_ARMv7-M_处理器架构技术综述.md",
+    "arm_m/04_ARMv7-M_异常处理及中断处理.md",
+    "arm_m/03_ARMv7-M_存储系统结构.md",
+    "arm_m/02_ARMv7-M_编程模型与模式.md",
+    "rust_sys",
+    "cortex_m_os"
+  ]
+}
