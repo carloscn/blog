@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59558c0e6ddd6bb0",
+        "id": "f0d0b2e1a424b82f",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a6abe5cd134ab5",
+            "id": "15f700cfd478d61a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "330675894964ac4b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37d8be887ae33efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 603.5
   },
   "right": {
     "id": "0de2fbf1f1a49bd9",
@@ -111,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6a6abe5cd134ab5",
+  "active": "15f700cfd478d61a",
   "lastOpenFiles": [
-    "embedded/ls104x/board/[embedded] NXP-LS1046的image操作.md",
+    "english/grammar/02_语法_名词（Nouns）.md",
+    "android/Android Security Overview.md",
+    "security_sys/SoC的Key-Management机制设计.md",
+    "arm_v7/PLACEHOLDER.md",
+    "optee_os/17_OPTEE-OS_应用之（二）密码学算法和安全存储.md",
+    "security_sys",
+    "optee_os/16_OPTEE-OS_应用之（一）TA镜像的签名和加载.md",
+    "optee_os/18_OPTEE-OS_应用之（三）可信应用的开发.md",
     "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
+    "embedded/ls104x/board/[embedded] NXP-LS1046的image操作.md",
     "embedded/ls104x/board/[Embedded] NXP-LS1046的启动流程.md",
     "embedded/ls104x/board/[Embedded] NXP-LS1046 secure boot.md",
     "embedded/(Embedded) NXP-IMX-RT1170 hard&soft platform.md",
@@ -199,16 +181,8 @@
     "embedded/ls104x/app/(LS104x) ostree的部署.md",
     "embedded/ls104x/app/(LS104x) ostree的移植.md",
     "embedded/ls104x/app/(LS104x) 使用ostree更新rootfs.md",
-    "embedded/[Embedded] ZYNQ-UltraScale+的启动流程.md",
-    "english/grammar/01_语法_语法概论与Overview.md",
-    "english/学习导向.md",
     "english/grammar",
     "english",
-    "arm_m/01_ARMv7-M_处理器架构技术综述.md",
-    "arm_m/04_ARMv7-M_异常处理及中断处理.md",
-    "arm_m/03_ARMv7-M_存储系统结构.md",
-    "arm_m/02_ARMv7-M_编程模型与模式.md",
-    "rust_sys",
-    "cortex_m_os"
+    "rust_sys"
   ]
 }
