@@ -223,6 +223,80 @@
 * 一些名词兼具物质名词和个体名词
 * 一些抽象名词可以作为个体名词
 * 一些个体名词可转而用作抽象名词
+* 一些对词，一个可数一个不可数
+
+### 3.2.1 兼具物质和个体名词
+
+|物质名词|翻译|个体名词|翻译|
+|-----|-|-----|-|
+|glass|玻璃|a glass|玻璃杯|
+|copper|铜|a copper|铜币|
+|tin|锡|a tin|罐头|
+|paper|纸|a paper|报纸、论文、证件|
+|iron|铁|an iron|熨斗|
+|wood|木头|a wood|树林|
+|gold|金子|a gold|金牌|
+
+这个只能平时学习英语的时候记忆在脑子里。
+
+### 3.2.2 兼具抽象和个体名词
+
+|抽象名词|翻译|个体名词|翻译|
+|-----|-|-----|-|
+|youth|青春|a youth|青年人|
+|relation|关系|a relation|亲属|
+|authority|权威|an authority|权威人士|
+|power|力量|a power|大国|
+|necessity|必要性|a necessity|必需品|
+|democracy|民主|a democracy|民主国家|
+|beauty|美|a beauty|美人，美的东西|
+|pleasure|高兴|a pleasure|高兴的事儿|
+
+### 3.2.3 个体名词转向抽象名词
+
+|名词|个体名词意义|抽象名词意义|
+|-----|-|-----|
+|room|The rooms are to let，房屋出租|There's no room for doubts，没有怀疑的余地|
+|school|They are buidling a new school，他们在盖一所学校|He finished school at sixteen，他十六岁中学毕业|
+|church|Is there a church round here?|He finished school at sixteen，他十六岁中学毕业|
+|bed|There was a big double bed|Time for bed, 该睡觉了|
+|flower|Butterfiles flattered among the flowers|The roses are in flower，玫瑰花开了|
+|holidays|How many holidays do you have in a year|They went on holiday last week，他们上周去度假了|
+|hospital|There's a general hospital in the erea|When did she leave hospital? 什么时候出院的|
+
+### 3.2.4 对词（一个可数一个不可数）
+
+
+|可数名词|翻译|不可数名词|翻译|
+|-----|-----|-----|-----|
+|a poem|一首诗|poetry|诗歌（总称）|
+|a machine|一台机器|machinery|机器（总称）|
+|a job|一件工作|work|工作|
+|a laugh|一声笑声|laughter|笑声|
+|a permit|许可|permission|允许|
+|a garment|一件衣裳|clothing|衣裳（总称）|
+|a bag(case)|一件行李|luggage, baggage|行李|
+|a loaf|一只面包|bread|面包|
+
+
+> 名词的可数和不可数是一个非常复杂的问题，很多单词需要查字典才可以确定。所以还是要平时积累。
+
+# 4. 名词复数形式变化
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

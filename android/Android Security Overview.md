@@ -5,6 +5,19 @@
 * https://mas.owasp.org/MASTG/Intro/0x01-Foreword/
 * Book -- Android Security Internals An In-Depth Guide to Android's Security Architecture
 
+我们对CDC中整体的安全话题的进行分类讨论，根据一般的系统的架构，我们对安全目标进行以下的拆分：
+
+![](https://raw.githubusercontent.com/carloscn/images/main/typora202312181627932.png)
+
+- **【APP层级的安全性】**：主要讨论APP在开发过程中，需要保证的安全性，例如，数据存储和隐私、网络使用、逆向工程等等；
+- **【安卓系统层级的安全性】**：主要讨论android系统层级的安全性，例如HAL层安全性、使用SELinux控制权限等等，除此之外还包含使用TEE-OS；
+- **【ARM硬件处理器层级的安全性】**：主要讨论使用TrustZone，SoC上的密码学engine机制，key存储等系统硬件的安全机制；
+- **【车内交互的安全性】**：讨论对于ECU和Android系统之间的数据交互的安全性；
+- **【ECU层级的安全性】**：Android通信对ECU的一些安全要求；
+- **【传感器层级的安全性】**：主要讨论传感器中的一些安全话题；
+
+以上话题，覆盖了从**APP侧**到**传感器**的数据传输链路所有涉及的模块。
+
 # 1. Android  Security Arch
 
 ## 1.1 Security Model
@@ -78,8 +91,37 @@ Android 软件堆栈是指构成 Android 操作系统的各个软件层级和组
 | 1.12 | MSTG-ARCH-12 | 应用应遵守隐私法律和规定。                                | ✓    | ✓    |      |                                                              |
 
 
-
 ## 2.2 Data Storage and Privacy
+
+这一章节主要讨论了在移动安全中保护敏感数据（如身份验证令牌和私人信息）的重要性，并探讨了Android在本地数据存储方面的API及其最佳实践。
+
+尽管最好尽量减少或避免在本地存储敏感数据，但实际情况下，应用程序经常需要存储用户数据。例如，为了提升用户体验，应用程序可能在本地缓存身份验证令牌，减少每次启动时输入复杂密码的需要。应用程序还可能需要存储个人可识别信息（PII）和其他敏感数据。
+
+如果保护不当，敏感数据可能变得容易受到攻击，存储位置可能包括设备或外部SD卡。识别移动应用处理的信息并分类哪些是敏感数据非常重要。可以参阅“移动应用安全测试”章节中的“识别敏感数据”部分，了解数据分类的详细信息。另外，Android开发者指南中的“存储数据的安全提示”一节提供了全面的见解。
+
+敏感信息泄露的风险包括潜在的信息解密、社交工程攻击（如果泄露了PII）、账户劫持（如果泄露了会话信息或身份验证令牌）以及带有支付选项的应用程序利用。
+
+除了数据保护外，还需要验证和清理来自任何存储源的数据。这包括检查正确的数据类型和实施加密控制（如HMAC）以确保数据完整性。
+
+Android提供了多种数据存储方法，适用于用户、开发者和应用程序。常见的持久存储技术包括：
+
+* 共享偏好设置
+* SQLite数据库
+* Firebase数据库
+* Realm数据库
+* 内部存储
+* 外部存储
+* Keystore
+
+此外，其他可能导致数据存储的Android功能也应进行测试，包括：
+
+* 日志功能
+* Android备份
+* 进程内存
+* 键盘缓存
+* 屏幕截图
+
+以下是关于对于是数据存储和隐私的测试限制和checklist：
 
 | V2   |                 | Data Storage and Privacy                                     |      |      |      |                                                              |
 | ---- | --------------- | ------------------------------------------------------------ | ---- | ---- | ---- | ------------------------------------------------------------ |
@@ -98,5 +140,7 @@ Android 软件堆栈是指构成 Android 操作系统的各个软件层级和组
 | 2.13 | MSTG-STORAGE‑13 | No sensitive data should be  stored locally on the mobile device. Instead, data should be retrieved from a  remote endpoint when needed and only be kept in memory. |      | ✓    | N/A  |                                                              |
 | 2.14 | MSTG-STORAGE‑14 | If sensitive data is still  required to be stored locally, it should be encrypted using a key derived  from hardware backed storage which requires authentication. |      | ✓    | N/A  |                                                              |
 | 2.15 | MSTG-STORAGE‑15 | The app’s local storage should  be wiped after an excessive number of failed authentication attempts. |      | ✓    | N/A  |                                                              |
+
+
 
 # 3. APP实例分析
