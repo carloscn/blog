@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d0b2e1a424b82f",
+        "id": "953f2870821b87cf",
         "type": "tabs",
         "children": [
           {
-            "id": "15f700cfd478d61a",
+            "id": "59cf4c86cad58939",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f700cfd478d61a",
+  "active": "59cf4c86cad58939",
   "lastOpenFiles": [
+    "design/ecu/cdc/CDC Arch安全分析.md",
     "english/grammar/02_语法_名词（Nouns）.md",
     "android/Android Security Overview.md",
     "security_sys/SoC的Key-Management机制设计.md",
@@ -180,7 +181,6 @@
     "arm_v8m",
     "embedded/ls104x/app/(LS104x) ostree的部署.md",
     "embedded/ls104x/app/(LS104x) ostree的移植.md",
-    "embedded/ls104x/app/(LS104x) 使用ostree更新rootfs.md",
     "english/grammar",
     "english",
     "rust_sys"
