@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "953f2870821b87cf",
+        "id": "f7c8791dce152ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "59cf4c86cad58939",
+            "id": "66ee80c6bd4f758b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59cf4c86cad58939",
+  "active": "66ee80c6bd4f758b",
   "lastOpenFiles": [
-    "design/ecu/cdc/CDC Arch安全分析.md",
     "english/grammar/02_语法_名词（Nouns）.md",
+    "design/tuna/Tuna Design.md",
+    "design/tuna",
+    "design/ecu/cdc/CDC Arch安全分析.md",
     "android/Android Security Overview.md",
     "security_sys/SoC的Key-Management机制设计.md",
     "arm_v7/PLACEHOLDER.md",
@@ -180,9 +182,7 @@
     "arm_v8m/(armv8) trustzone aarch.md",
     "arm_v8m",
     "embedded/ls104x/app/(LS104x) ostree的部署.md",
-    "embedded/ls104x/app/(LS104x) ostree的移植.md",
     "english/grammar",
-    "english",
-    "rust_sys"
+    "english"
   ]
 }

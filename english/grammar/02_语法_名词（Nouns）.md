@@ -283,6 +283,141 @@
 
 # 4. 名词复数形式变化
 
+加`s`或者`es`的规则：
+
+|情况|加法|示例|
+|-----|-----|-----|
+|一般情况|直接加`s`|brothers, flowers, schools, books |
+|以`s`, `x`, `ch`, `sh`结尾的单词|直接加`es`|buses, foxes, watches, dishes|
+|以辅音 + y结尾的单词|变y为i加es|ladies, countries, boys, toys, ways|
+|可变可不变|加s或者不加都可|youth,youths, truth, truths|
+|以-o为结尾的单词|许多加-es构成复数|heroes, potatoes, tomatoes, echoes, tornadoes, torpedoes, dominoes|
+|以元音+o结尾|直接+s|videos, studios, folios, embryos, zoos|
+|乐器|直接+s|pianos, solos, tobaccos, banjos, mottos|
+|一些缩写词和专有名词|直接+s|kilos, photos, memos, micros|
+|以f或者fe结尾的词|变f为v+es|halves, leaves, loaves, selves|
+|以f为结尾|直接加s的情况|roofs, ciffs, proofs, chiefs|
+|个别词|s或es都行|scarfs|scarves, dwarf | dwarves, wharf | wharves |
+
+
+> 英语中，将以辅音字母加“y”结尾的单词变为复数形式时，需要将“y”变为“i”并加上“es”的规则，主要是基于发音和历史上的拼写惯例。
+>1. **发音上的考虑**：英语单词的发音规则很大程度上受到单词末尾字母的影响。对于以辅音字母加“y”结尾的单词，如果直接在其后添加“s”来形成复数，往往会造成发音上的不协调或困难。例如，“city”直接加“s”变成“citys”发音并不自然。改变“y”为“i”并添加“es”，形成“cities”，则在发音上更加流畅。
+>2. **历史上的拼写惯例**：英语语言和拼写体系是经过长时间的发展和演变的。这种拼写变化规则是历史上逐渐形成的拼写惯例。英语借鉴了拉丁语和其他欧洲语言的许多拼写规则，在这些语言中，类似的拼写变化也很常见。
+>3. **规则的例外**：值得注意的是，这个规则不适用于以元音字母加“y”结尾的单词。在这种情况下，通常只需简单地在单词末尾添加“s”即可。例如，“day”变为“days”  
+>4. **语言的规范性和一致性**：在语言学中，为了保持语言的规范性和一致性，对于类似的语言现象往往会发展出固定的规则。  
+>这条规则是英语语言中许多类似规则之一，反映了语言的复杂性和历史性。虽然这些规则有时看起来有些任意，但它们有助于保持语言的一致性和可预测性。
+
+除此之外还有一些不规则的复数变化：
+
+* man -> men | woman -> women
+* tooth -> teeth | foot -> feet
+* child -> children | goose -> geese
+* mouse -> mice | ox -> oxen
+* louse -> lice
+
+有些外来词的不规则复数：
+
+* analysis -> analyes
+* basis -> bases
+* crisis -> crises
+* medium -> media
+* stratum -> strata
+
+还有一些特殊的复数形式：
+
+* 年份
+	* 加-s 或者 -'s ： 1990s 或者 1990's 二十世纪90年代
+* 缩写词
+	* 和年份一样： VIPs, VIP's
+* 英语字母
+	* i's 例如： Dot your i's and cross your t's. 记得在i上加点，在t上加横
+
+
+# 5. 名词的所有格
+
+名词的所有格（Possessive Case）在英语中是用来表示所有关系的一种形式。它通常通过在名词末尾添加 `'s` 或仅添加一个撇号 `'`（如果名词已经以 `s` 结尾）来形成。名词的所有格用来表达一种归属关系，意味着某物属于或与某人或某事物相关联。
+
+通常有以下的用法：
+
+1. 名词所有格主要用于表示人的名词，表示“某人的”
+2. 用于高级的动物或者个别低级动物的名词
+3. 用于没有生命的东西之后：
+		* 表示时间的名词
+		* 表示距离、价格的名词
+		* 表示国家、城市的名词
+		* 表示集体、机构的名词
+4. 用于固定词组中
+
+## 5.1 用于表示某人的
+
+这是最常见的用法：
+
+* Is the Mr.Black's office
+* It's one of Shelley's best poems.
+* Old Wives' STales is a good book.
+
+## 5.2 无生命东西后的名词
+
+### 5.2.1 时间的名词
+
+* Today is yesterday's pupil 昨日是今日之师
+* I'll never forget that night's experience. 
+* We have two weeks' vacation for Chrismas.
+* It was a summer's morning.
+
+### 5.2.2 表示距离、价格
+
+* The park is a stone's throw from here. 公园离这里仅一投石之遥 （公园很近） a stone's throw 表示很近的固定搭配。
+* I bought ten dollars' worth of stamps. 我买了10美元的邮票。
+* It's about an hour's drive from here. 1小时的路程
+
+### 5.2.3 表示国家、城市等地方名词
+
+* The sea covers nearly three-fourths of the world's surface. 海水覆盖了世界.. 海水
+* That was the first time I had left England's shore 第一次离开英格兰的海岛。
+* It's the city's finest park. 他是这个城市最美的公园
+* college's hotel's 
+
+### 5.2.4 表示集体或者机构
+
+* mission's 
+* majority's
+* stations's
+* Harvard's
+
+## 5.3 所有格的特殊意义
+
+### 5.3.1 表示所有关系
+
+* 主动关系（前面名词表示后面动作的执行者）
+	* John's gift to Marry was a watch
+	* The soldier's heroic deead earned hime a medal
+* 被动关系（前面的名词表示后面动作的承受者）
+	* The play ends with Hamlet's murder. 该剧以哈姆雷特被杀害结束
+	* Everybody is singing the fighter's praise. 人人都赞颂这位战士
+* 表示特征
+	* The young boy has a man's voice.
+	* He has a doctor's degree
+	* He rose at cock's crow
+* 和of引导的短语结合使用
+	* He's a friend of Henry's
+	* I saw a play of Shaw's 我看了萧伯纳的演出
+	* I have only read four books of Dicken's 我看过狄更斯的四本书
+
+### 5.3.2 修饰词省略
+
+* 所有格修饰词可以省略
+	* Whose seat is this?  It's Mary's
+	* This is not my dictionary, but Xiao Lin's 
+	* She had views quite different from her father's
+	* She put her arm through her brother's
+* 可以表示教堂、商店等
+	* We visited St.Paul's 我们参观了圣彼得堡大教堂
+	* I've been shopping in Macy's 我刚才在梅西百货公司买了东西
+	* He went into a staioner's o buy a ruler.
+* 可以表示某人的家
+	* He had to go to his sister's for dinner.
+	* We can meet at Aunt Lucy's
 
 
 
