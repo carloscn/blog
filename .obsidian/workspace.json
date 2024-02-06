@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c8791dce152ba2",
+        "id": "6ab6671d2ccf51a6",
         "type": "tabs",
+        "dimension": 57.163742690058484,
         "children": [
           {
-            "id": "66ee80c6bd4f758b",
+            "id": "4363bccccb52c31a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "203aba355e888273",
+        "type": "tabs",
+        "dimension": 42.83625730994152,
+        "children": [
+          {
+            "id": "768905be48d3b9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md"
+              }
             }
           }
         ]
@@ -146,8 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66ee80c6bd4f758b",
+  "active": "4363bccccb52c31a",
   "lastOpenFiles": [
+    "linux_user/Linux System - Managing Linux Services - initramfs (using imx6 + zynq).md",
+    "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+    "embedded/(Embedded) NXP-imx6 initialization.md",
     "english/grammar/02_语法_名词（Nouns）.md",
     "design/tuna/Tuna Design.md",
     "design/tuna",
@@ -177,11 +208,8 @@
     "cortex_m_os/02_ARMv7m_Access_Register.md",
     "cortex_m_os/01_ARMv7m_Using_The_RUST_Cross_Compiler.md",
     "android/01_Android_搭建Kernel开发环境.md",
-    "embedded/ls104x/app/(LS104x) ostree制作sd卡.md",
     "android",
-    "arm_v8m/(armv8) trustzone aarch.md",
     "arm_v8m",
-    "embedded/ls104x/app/(LS104x) ostree的部署.md",
     "english/grammar",
     "english"
   ]
