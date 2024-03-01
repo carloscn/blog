@@ -123,6 +123,7 @@
 * [OMAPL多核异构通信驱动AD9833-Notify组件demo](https://github.com/carloscn/blog/issues/34) [2018-6-8]
 * [ZYNQ的Linux Linaro系统镜像制作SD卡启动](https://github.com/carloscn/blog/issues/39) [2018-8-27]
 * [(Embedded) NXP-imx6 initialization](https://github.com/carloscn/blog/issues/172) [2023-01-14]
+* [[Linux] 简析Linux镜像生成过程](https://github.com/carloscn/blog/issues/209) [2024-03-01]
 
 ## OPTEE
 * [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1]
