@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab6671d2ccf51a6",
+        "id": "f946e451036e01fc",
         "type": "tabs",
-        "dimension": 57.163742690058484,
         "children": [
           {
-            "id": "4363bccccb52c31a",
+            "id": "afe443d2611cfbf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+                "file": "embedded/s32k344/S32K344_BOOT.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "203aba355e888273",
+        "id": "6f40e7e3f5f6c58b",
         "type": "tabs",
-        "dimension": 42.83625730994152,
         "children": [
           {
-            "id": "768905be48d3b9dc",
+            "id": "acc5aa0f6d2a4b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+                "file": "embedded/s32k344/S32K344_BOOT.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 603.5
+    "width": 200
   },
   "right": {
     "id": "0de2fbf1f1a49bd9",
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+                "file": "embedded/s32k344/S32K344_BOOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+                "file": "embedded/s32k344/S32K344_BOOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded/ls104x/board/(LS104x) uboot control GPIO.md"
+                "file": "embedded/s32k344/S32K344_BOOT.md"
               }
             }
           }
@@ -174,43 +172,80 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4363bccccb52c31a",
+  "floating": {
+    "id": "48299ed0d82d906e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9210040b5d3d3944",
+        "type": "window",
+        "children": [
+          {
+            "id": "711ee468d71ca003",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "068663856b2e170d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "embedded/s32k344/S32K344_HSE Overview.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1423,
+        "y": 146,
+        "width": 940,
+        "height": 1173,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "acc5aa0f6d2a4b01",
   "lastOpenFiles": [
-    "linux_user/Linux System - Managing Linux Services - initramfs (using imx6 + zynq).md",
-    "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+    "embedded/s32k344/S32K344_Boot And Reset Sequence.md",
+    "embedded/s32k344/S32K344_BOOT.md",
+    "embedded/s32k344/S32K344_Secure Boot Design.md",
+    "embedded/s32k344/S32K344_HSE Overview.md",
+    "embedded/s32k344/S32K344_Going Through.md",
+    "linux_kernel/0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）.md",
+    "embedded/(Embedded) cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform.md",
     "embedded/(Embedded) NXP-imx6 initialization.md",
+    "embedded/[Embedded] x86-UEFI-Secure-Boot.md",
+    "security_sys/(Sec) ls104x平台openssl pkcs11 sign功能.md",
+    "security_sys/SoC的Key-Management机制设计.md",
+    "embedded/ls104x/app/(LS104x) uboot从sd卡读取更新boot env.md",
+    "embedded/s32k344",
+    "embedded/Untitled.md",
+    "embedded/ls104x/app/(LS104x) ostree的部署.md",
+    "embedded/ls104x/app/(LS104x) OpenSSL的offload功能.md",
+    "STUDY.md",
+    "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
+    "linux_user/Linux System - Managing Linux Services - initramfs (using imx6 + zynq).md",
     "english/grammar/02_语法_名词（Nouns）.md",
     "design/tuna/Tuna Design.md",
     "design/tuna",
     "design/ecu/cdc/CDC Arch安全分析.md",
     "android/Android Security Overview.md",
-    "security_sys/SoC的Key-Management机制设计.md",
     "arm_v7/PLACEHOLDER.md",
     "optee_os/17_OPTEE-OS_应用之（二）密码学算法和安全存储.md",
     "security_sys",
     "optee_os/16_OPTEE-OS_应用之（一）TA镜像的签名和加载.md",
     "optee_os/18_OPTEE-OS_应用之（三）可信应用的开发.md",
-    "embedded/ls104x/board/(LS104x) Hardware and SDK Building.md",
-    "embedded/ls104x/board/[embedded] NXP-LS1046的image操作.md",
-    "embedded/ls104x/board/[Embedded] NXP-LS1046的启动流程.md",
-    "embedded/ls104x/board/[Embedded] NXP-LS1046 secure boot.md",
-    "embedded/(Embedded) NXP-IMX-RT1170 hard&soft platform.md",
-    "embedded/ls104x/app/(LS104x) 使用FIT的kernel格式和initramfs.md",
-    "design/app/Secure Boot的一些调研.md",
     "embedded/ls104x/app",
     "embedded/ls104x/board",
     "embedded/ls104x",
-    "arm_v8m/03_ARMv8M_Trustzone_stm32l5_implement_and_demos.md",
     "design/app",
-    "arm_v8m/02_ARMv8M_Trustzone_Features.md",
-    "arm_v8m/01_ARMv8M_Trustzone_技术综述.md",
-    "arm_v8/03_ARMv8_指令集介绍_加载指令集和存储指令集.md",
-    "cortex_m_os/02_ARMv7m_Access_Register.md",
-    "cortex_m_os/01_ARMv7m_Using_The_RUST_Cross_Compiler.md",
-    "android/01_Android_搭建Kernel开发环境.md",
     "android",
     "arm_v8m",
-    "english/grammar",
-    "english"
+    "english/grammar"
   ]
 }
