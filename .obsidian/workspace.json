@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecaa11b75f0d3d0f",
+        "id": "a443e9002d9f13f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8294c97d6f058be2",
+            "id": "3a1069683b92be15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
+                "file": "yocto/04_Yocto_build.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,17 +22,17 @@
         ]
       },
       {
-        "id": "44e5fdea4c657173",
+        "id": "ef240f643a3110df",
         "type": "tabs",
         "children": [
           {
-            "id": "229eac54a8ab125c",
+            "id": "93a29b0a79ade725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
-                "mode": "preview",
+                "file": "yocto/04_Yocto_build.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
+                "file": "yocto/04_Yocto_build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
+                "file": "yocto/04_Yocto_build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md"
+                "file": "yocto/04_Yocto_build.md"
               }
             }
           }
@@ -172,47 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "48299ed0d82d906e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9210040b5d3d3944",
-        "type": "window",
-        "children": [
-          {
-            "id": "711ee468d71ca003",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "068663856b2e170d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "embedded/s32k344/S32K344_HSE Overview.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1423,
-        "y": 146,
-        "width": 940,
-        "height": 1173,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "229eac54a8ab125c",
+  "active": "3a1069683b92be15",
   "lastOpenFiles": [
-    "yocto/03_Creating a Custom Yocto Layer.md",
     "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
+    "yocto/04_Yocto_build.md",
+    "embedded/s32k344/S32K344_HSE Overview.md",
+    "yocto/03_Creating a Custom Yocto Layer.md",
     "embedded/imx6",
     "yocto/02_Yocto Builds without an Internet Connection.md",
     "yocto/01_Building Yocto Images using a Docker Container.md",
@@ -220,7 +185,6 @@
     "yocto",
     "embedded/s32k344/S32K344_Boot And Reset Sequence.md",
     "embedded/s32k344/S32K344_Secure Boot Design.md",
-    "embedded/s32k344/S32K344_HSE Overview.md",
     "embedded/s32k344/S32K344_Going Through.md",
     "linux_kernel/0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）.md",
     "embedded/(Embedded) cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform.md",
@@ -240,7 +204,6 @@
     "design/tuna/Tuna Design.md",
     "design/tuna",
     "design/ecu/cdc/CDC Arch安全分析.md",
-    "android/Android Security Overview.md",
     "security_sys",
     "embedded/ls104x/app",
     "embedded/ls104x/board",
