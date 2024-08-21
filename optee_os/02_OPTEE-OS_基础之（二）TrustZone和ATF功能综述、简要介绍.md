@@ -39,7 +39,7 @@ ARMv7架构中使用了TrustZone技术的系统软件层面的框图[^1]：
 
 ### 1.2.2 ARMv8的TZ
 
-在ARMv8架构中改用执行等级（Execution Level，EL）EL0～EL3来定义ARM核的运行等级， 其中EL0～EL2等级分为安全态和非安全态。 ARMv8架构与ARMv7架构中ARM核运行权限的对应关系如图所示[^2]：
+在ARMv8架构中改用异常等级（Exception Level，EL）EL0～EL3来定义ARM核的异常等级， 其中EL0～EL2等级分为安全态和非安全态。 ARMv8架构与ARMv7架构中ARM核运行权限的对应关系如图所示[^2]：
 
 ![](https://raw.githubusercontent.com/carloscn/images/main/typora20221001105958.png)
 
