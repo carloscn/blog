@@ -67,7 +67,6 @@ TrustZone技术之所以能提高系统的安全性，是因为对外部资源�
 
 **必选组件**：
 -   AMBA3 AXI总线：安全机制基础设施。
--   ARMv8A Core El2：虚拟安全和非安全核。
 -   TZASC(TrustZone Address Space Controller)：将内存分成多个区域，每个区域可以单独配置为安全或非安全区域。只能用于内存设备，不能用于块设备。
 -   TZPC(TrustZone Protection Controller)：根据需要控制外设安全特性。
 
