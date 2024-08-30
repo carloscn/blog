@@ -432,6 +432,10 @@ We have not run any test to know how much impact HAB has on boot time yet.
 
 Enabling the signature definitely increases the time it takes before U-Boot is loaded. Feel free to let us know if you have made some comparison.
 
+https://github.com/carloscn/imx6-bsp
+
+![image.png](https://raw.githubusercontent.com/carloscn/images/main/typora202408241123629.png)
+
 ## References
 
 - [https://www.nxp.com/webapp/Download?colCode=IMX6DQ6SDLSRM](https://www.nxp.com/webapp/Download?colCode=IMX6DQ6SDLSRM)

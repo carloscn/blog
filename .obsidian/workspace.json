@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a443e9002d9f13f2",
+        "id": "6d7c826cf1ce8b6e",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1069683b92be15",
+            "id": "4a74d00444e3d711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yocto/04_Yocto_build.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ef240f643a3110df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93a29b0a79ade725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yocto/04_Yocto_build.md",
+                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
                 "mode": "source",
                 "source": true
               }
@@ -95,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.5
   },
   "right": {
     "id": "0de2fbf1f1a49bd9",
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yocto/04_Yocto_build.md",
+                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yocto/04_Yocto_build.md",
+                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yocto/04_Yocto_build.md"
+                "file": "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md"
               }
             }
           }
@@ -172,43 +154,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a1069683b92be15",
+  "active": "4a74d00444e3d711",
   "lastOpenFiles": [
+    "embedded/imx6/(Embedded) NXP-imx6 initialization.md",
     "embedded/imx6/(IMX6) High Assurance Boot (HAB) for dummies.md",
-    "yocto/04_Yocto_build.md",
-    "embedded/s32k344/S32K344_HSE Overview.md",
-    "yocto/03_Creating a Custom Yocto Layer.md",
-    "embedded/imx6",
-    "yocto/02_Yocto Builds without an Internet Connection.md",
-    "yocto/01_Building Yocto Images using a Docker Container.md",
-    "embedded/s32k344/S32K344_Boot Overview.md",
-    "yocto",
-    "embedded/s32k344/S32K344_Boot And Reset Sequence.md",
-    "embedded/s32k344/S32K344_Secure Boot Design.md",
-    "embedded/s32k344/S32K344_Going Through.md",
-    "linux_kernel/0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）.md",
-    "embedded/(Embedded) cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform.md",
-    "embedded/(Embedded) NXP-imx6 initialization.md",
-    "embedded/[Embedded] x86-UEFI-Secure-Boot.md",
-    "security_sys/(Sec) ls104x平台openssl pkcs11 sign功能.md",
-    "security_sys/SoC的Key-Management机制设计.md",
-    "embedded/ls104x/app/(LS104x) uboot从sd卡读取更新boot env.md",
-    "embedded/s32k344",
     "embedded/Untitled.md",
+    "embedded/x86/[Embedded] x86-UEFI-Secure-Boot.md",
+    "embedded/rt117x/(Embedded) NXP-IMX-RT1170 hard&soft platform.md",
+    "embedded/x86",
+    "embedded/zynq/(Embedded) enabling the cryptsetup on ramdisk.md",
+    "embedded/zynq/(Embedded) cross-compile the cryptsetup on Xilinx ZYNQ aarch64 platform.md",
+    "embedded/zynq/[Embedded] ZYNQ-Secure Boot Flow.md",
+    "embedded/rt117x",
+    "embedded/zynq",
+    "embedded/ls104x/app/(LS104x) 使用FIT的kernel格式和initramfs.md",
     "embedded/ls104x/app/(LS104x) ostree的部署.md",
     "embedded/ls104x/app/(LS104x) OpenSSL的offload功能.md",
+    "arm_v8m/02_ARMv8M_Trustzone_Features.md",
+    "dsp/DSP-F2812的串行通信接口SCI.md",
+    "embedded/raspi/BSP for Raspi-4B.md",
+    "yocto/04_Yocto_build.md",
+    "yocto/03_Creating a Custom Yocto Layer.md",
+    "yocto/02_Yocto Builds without an Internet Connection.md",
+    "yocto/01_Building Yocto Images using a Docker Container.md",
+    "yocto",
+    "security_sys/(Sec) ls104x平台openssl pkcs11 sign功能.md",
+    "embedded/s32k344/S32K344_Secure Boot Design.md",
+    "embedded/s32k344/S32K344_Going Through.md",
+    "embedded/s32k344/S32K344_HSE Overview.md",
+    "embedded/s32k344/S32K344_Boot Overview.md",
+    "embedded/s32k344/S32K344_Boot And Reset Sequence.md",
+    "embedded/s32k344",
+    "embedded/ls104x/app/(LS104x) uboot从sd卡读取更新boot env.md",
+    "embedded/imx6",
     "STUDY.md",
-    "embedded/ls104x/board/(LS104x) uboot control GPIO.md",
-    "linux_user/Linux System - Managing Linux Services - initramfs (using imx6 + zynq).md",
-    "english/grammar/02_语法_名词（Nouns）.md",
-    "design/tuna/Tuna Design.md",
+    "embedded/raspi",
     "design/tuna",
-    "design/ecu/cdc/CDC Arch安全分析.md",
     "security_sys",
-    "embedded/ls104x/app",
-    "embedded/ls104x/board",
-    "embedded/ls104x",
-    "design/app",
-    "android"
+    "embedded/ls104x/app"
   ]
 }

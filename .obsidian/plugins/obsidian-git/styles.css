@@ -8,11 +8,20 @@
     }
 }
 
-.workspace-leaf-content[data-type='git-view'] .view-content {
+.workspace-leaf-content[data-type="git-view"] .button-border {
+    border: 2px solid var(--interactive-accent);
+    border-radius: var(--radius-s);
+}
+
+.workspace-leaf-content[data-type="git-view"] .view-content {
     padding: 0;
 }
 
-.loading>svg {
+.workspace-leaf-content[data-type="git-history-view"] .view-content {
+    padding: 0;
+}
+
+.loading > svg {
     animation: 2s linear infinite loading;
     transform-origin: 50% 50%;
     display: inline-block;
@@ -42,21 +51,46 @@
 .tooltip.mod-right {
     overflow-wrap: break-word;
 }
-
-.obsidian-git-shortcuts {
-    margin: 10px;
-}
-
-.diff-err {
-    height: 100%;
+.git-tools {
     display: flex;
-    justify-content: center;
-    flex-direction: column;
+    margin-left: auto;
+}
+.git-tools .type {
+    padding-left: var(--size-2-1);
+    display: flex;
     align-items: center;
+    justify-content: center;
+    width: 11px;
 }
 
-.diff-err-sign {
-    font-size: 2em;
+.git-tools .type[data-type="M"] {
+    color: orange;
+}
+.git-tools .type[data-type="D"] {
+    color: red;
+}
+.git-tools .buttons {
+    display: flex;
+}
+.git-tools .buttons > * {
+    padding: 0 0;
+    height: auto;
+}
+
+.is-active .git-tools .buttons > * {
+    color: var(--nav-item-color-active);
+}
+
+.git-author {
+    color: var(--text-accent);
+}
+
+.git-date {
+    color: var(--text-accent);
+}
+
+.git-ref {
+    color: var(--text-accent);
 }
 
 .workspace-leaf-content[data-type="diff-view"] .d2h-d-none {
@@ -210,12 +244,18 @@
 }
 
 .theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    del {
     background-color: #ffb6ba;
 }
 
 .theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    del {
     background-color: #8d232881;
 }
 
@@ -231,13 +271,19 @@
 }
 
 .theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    ins {
     background-color: #97f295;
     text-align: left;
 }
 
 .theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    ins {
     background-color: #1d921996;
     text-align: left;
 }
@@ -358,19 +404,31 @@
     color: var(--text-normal);
 }
 
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-del.d2h-change {
     background-color: #fdf2d0;
 }
 
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-del.d2h-change {
     background-color: #55492480;
 }
 
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-ins.d2h-change {
     background-color: #ded;
 }
 
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-ins.d2h-change {
     background-color: rgba(37, 78, 37, 0.418);
 }
 
@@ -383,7 +441,9 @@
     text-decoration: none;
 }
 
-.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper a:visited {
+.workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-list-wrapper
+    a:visited {
     color: #3572b0;
 }
 
@@ -409,13 +469,13 @@
     padding: 0;
 }
 
-.workspace-leaf-content[data-type="diff-view"] .d2h-file-list>li {
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list > li {
     border-bottom: 1px solid var(--background-modifier-border);
     margin: 0;
     padding: 5px 10px;
 }
 
-.workspace-leaf-content[data-type="diff-view"] .d2h-file-list>li:last-child {
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list > li:last-child {
     border-bottom: none;
 }
 
@@ -471,4 +531,32 @@
 
 .workspace-leaf-content[data-type="diff-view"] .d2h-moved-tag {
     border: 1px solid #3572b0;
+}
+
+/* ====================== Line Authoring Information ====================== */
+
+.cm-gutterElement.obs-git-blame-gutter {
+    /* Add background color to spacing inbetween and around the gutter for better aesthetics */
+    border-width: 0px 2px 0.2px 2px;
+    border-style: solid;
+    border-color: var(--background-secondary);
+    background-color: var(--background-secondary);
+}
+
+.cm-gutterElement.obs-git-blame-gutter > div,
+.line-author-settings-preview {
+    /* delegate text color to settings */
+    color: var(--obs-git-gutter-text);
+    font-family: monospace;
+    height: 100%; /* ensure, that age-based background color occupies entire parent */
+    text-align: right;
+    padding: 0px 6px 0px 6px;
+    white-space: pre; /* Keep spaces and do not collapse them. */
+}
+
+@media (max-width: 800px) {
+    /* hide git blame gutter not to superpose text */
+    .cm-gutterElement.obs-git-blame-gutter {
+        display: none;
+    }
 }
